@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@bahmutov/cy-grep": "^2.1.0",
+    "cypress": "^15.9.0",
+    "eslint-plugin-cypress": "^5.2.1"
+  }
+}
