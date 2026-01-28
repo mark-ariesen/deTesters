@@ -1,5 +1,5 @@
 import { landing } from '../pages/landing.page'
-import { setup } from '../pages/setup.page '
+import { setup } from '../pages/setup.page'
 
 
 
@@ -33,3 +33,4 @@ describe('Sanity Checks', () => {
     });
   });
 })
+
