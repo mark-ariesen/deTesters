@@ -1,3 +1,6 @@
+## INSTALL EVERYTHING ##
+npm ci
+
 ## GETTING STARTED ##
 1. Run cypress in open mode:
 npx cypress open

@@ -23,6 +23,7 @@ describe('Sanity Checks', () => {
   });
 
   it('Expected character options found', { tags: ['BRONZE'] }, () => {
+    setup.visit();
     setup.getAllCharacterOptions().then((options) => {
       expect(options).to.deep.equal([
         { value: 'thief', label: 'Thief' },
